@@ -54,7 +54,7 @@ header .content {
 header .logo {
   flex: 1;
   color: #4A4A4A;
-  font0size: 2px;
+  font-size: 24px;
   font-family: Roboto-Mono-Regular;
   margin-left: 30px;
 }
